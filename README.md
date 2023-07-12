@@ -30,13 +30,13 @@ You will be interacted through console prompts. Follow the prompts to play the g
 
 ##  Screenshots
 ### First pass
-![First pass](./Screenshots/.png)
+![First pass](./screenshots/First-pass.png)
 ### Second pass
-![Second pass](./Screenshots/.png)
+![Second pass](./screenshots/Second-pass.png)
 ### Thirs pass
-![Third pass](./Screenshots/.png)
+![Third pass](./screenshots/Third-pass.png)
 ### Log file
-![Log file](./Screenshots/.png)
+![Log file](./screenshots/Log-file.png)
 
 ## Contributions  
 Contributions are welcome! Please fork this repository and open a pull request to add more features or fix issues.  
