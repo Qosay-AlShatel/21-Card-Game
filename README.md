@@ -33,7 +33,7 @@ You will be interacted through console prompts. Follow the prompts to play the g
 ![First pass](./screenshots/First-pass.png)
 ### Second pass
 ![Second pass](./screenshots/Second-pass.png)
-### Thirs pass
+### Third pass
 ![Third pass](./screenshots/Third-pass.png)
 ### Log file
 ![Log file](./screenshots/Log-file.png)
